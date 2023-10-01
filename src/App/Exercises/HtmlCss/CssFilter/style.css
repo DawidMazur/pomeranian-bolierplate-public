@@ -7,6 +7,7 @@
     width: 100px;
     height: 100px;
 
+    /* ten filter zmienia kolor czarny w czerwony */
     filter: grayscale(41%) sepia(50%) blur(5px) hue-rotate(125deg) invert(100%);
     -webkit-filter: grayscale(41%) sepia(50%) blur(5px) hue-rotate(125deg) invert(100%);
     -moz-filter: grayscale(41%) sepia(50%) blur(5px) hue-rotate(125deg) invert(100%);
